@@ -3,7 +3,7 @@
 // Feel free to base any plugins on this "framework"...
 
 #include <windows.h>
-#include "../Winamp/dsp.h"
+#include "Winamp SDK/Winamp/dsp.h"
 
 
 // module getter.
